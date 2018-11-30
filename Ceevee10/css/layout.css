@@ -247,6 +247,7 @@ ul#nav li.current a { color: #F06000; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
+   color: #6E7881;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -326,37 +327,53 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .java {
-  	width: 90%;
+  	width: 85%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
 .spring {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: spring 2s ease;
   	-webkit-animation: spring 2s ease;
 }
-.junit {
-  	width: 80%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.hibernate {
+  width: 45%;
+  -moz-animation: sql 2s ease;
+  -webkit-animation: sql 2s ease;
 }
+.maven {
+  width: 45%;
+  -moz-animation: sql 2s ease;
+  -webkit-animation: sql 2s ease;
+}
+.angular {
+  width: 25%;
+  -moz-animation: angular 2s ease;
+  -webkit-animation: angular 2s ease;
+}
+.junit {
+  	width: 70%;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
+}
+
 .sql {
   	width: 65%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
 .react {
-  	width: 50%;
+  	width: 30%;
   	-moz-animation: react 2s ease;
   	-webkit-animation: react 2s ease;
 }
 .git {
-  	width: 70%;
+  	width: 55%;
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
 }
 .jScript {
-  width: 35%;
+  width: 30%;
   -moz-animation: jScript 2s ease;
   -webkit-animation: jScript 2s ease;
 }
@@ -967,19 +984,6 @@ footer .copyright  li:first-child:before {
 }
 
 /* social links */
-footer .social-links {
-   margin: 18px 0 30px 0;
-   padding: 0;
-   font-size: 30px;
-}
-footer .social-links li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    margin-left: 42px;
-    color: #F06000;
-}
-
 footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
