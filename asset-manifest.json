@@ -1,14 +1,13 @@
 {
-  "main.css": "/Clements-Portfolio/static/css/main.562a27ee.chunk.css",
-  "main.js": "/Clements-Portfolio/static/js/main.e495976b.chunk.js",
-  "main.js.map": "/Clements-Portfolio/static/js/main.e495976b.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/Clements-Portfolio/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/Clements-Portfolio/static/js/1.2dd891c4.chunk.js.map",
+  "main.css": "/Clements-Portfolio/static/css/main.62e2238f.chunk.css",
+  "main.js": "/Clements-Portfolio/static/js/main.e481a2fd.chunk.js",
+  "main.js.map": "/Clements-Portfolio/static/js/main.e481a2fd.chunk.js.map",
+  "static/js/1.0cd6058f.chunk.js": "/Clements-Portfolio/static/js/1.0cd6058f.chunk.js",
+  "static/js/1.0cd6058f.chunk.js.map": "/Clements-Portfolio/static/js/1.0cd6058f.chunk.js.map",
   "runtime~main.js": "/Clements-Portfolio/static/js/runtime~main.4ea5772c.js",
   "runtime~main.js.map": "/Clements-Portfolio/static/js/runtime~main.4ea5772c.js.map",
-  "static/media/logo.svg": "/Clements-Portfolio/static/media/logo.5d5d9eef.svg",
-  "static/css/main.562a27ee.chunk.css.map": "/Clements-Portfolio/static/css/main.562a27ee.chunk.css.map",
+  "static/css/main.62e2238f.chunk.css.map": "/Clements-Portfolio/static/css/main.62e2238f.chunk.css.map",
   "index.html": "/Clements-Portfolio/index.html",
-  "precache-manifest.0aa9dac8e39dfac1d331303f72a5f315.js": "/Clements-Portfolio/precache-manifest.0aa9dac8e39dfac1d331303f72a5f315.js",
+  "precache-manifest.094bef589669020690d1348d3fca64bb.js": "/Clements-Portfolio/precache-manifest.094bef589669020690d1348d3fca64bb.js",
   "service-worker.js": "/Clements-Portfolio/service-worker.js"
 }
