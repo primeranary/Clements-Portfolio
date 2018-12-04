@@ -8,7 +8,7 @@ export class Contact extends Component {
       <section id="contact">
         <div className="row section-head">
           <div className="two columns header-col">
-            <h1><span>Get In Touch.</span></h1>
+            <h1><span>Get In Touch</span></h1>
           </div>
           <div className="ten columns">
           
@@ -19,7 +19,9 @@ export class Contact extends Component {
             <div className="widget widget_contact">
               <h4>Address and Phone</h4>
               <p className="address">
-                Clement Ojie <br />
+                <span>523 Saienni Blvd<br />
+                    New Castle, DE 19720 US
+                  </span><br />
                 cojie48@gmail.com<br />
                 <span>(302) 784-5442</span>
               </p>

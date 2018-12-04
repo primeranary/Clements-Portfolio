@@ -8,6 +8,8 @@ export class Footer extends Component {
       <footer>
         <div className="row">
           <div className="twelve columns">
+            <ul className="social-links">
+            </ul>
             <ul className="copyright">
               <li>© Copyright 2014 CeeVee</li>
             </ul>

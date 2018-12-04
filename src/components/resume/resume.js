@@ -39,8 +39,7 @@ export class Resume extends Component {
                 ● Completed over 800 hours of software development projects and training over the span of 12 weeks 
                 </p>
                 <p>
-                ● Trained new specialists in methods for selling supplemental benefits and helped prepare new specialists for their insurance certification tests
-                </p>
+                ● Selected from over 350 applicants for admission in a class of 38 students                </p>
                 <p>
                 ● Worked 80+ hours per week while gaining experience in:            
                 </p>
@@ -61,7 +60,7 @@ export class Resume extends Component {
                 ● Partnered with Delaware Teamsters unions to enroll members in universal life insurance coverage
                 </p>
                 <p>
-                ● Selected from over 350 applicants for admission in a class of 38 students
+                ● Trained new specialists in methods for selling supplemental benefits and helped prepare new specialists for their insurance certification tests
                 </p>
                 <p>
                 ● Enrolled families in life insurance policies valued at $150,000+

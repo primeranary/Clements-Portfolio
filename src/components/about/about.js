@@ -10,17 +10,14 @@ export class About extends Component {
           
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p> Outgoing and headstrong individual with a love for coding and problem solving.Involved in and graduated rigorous 12 week coding bootcamp at Zip Code Wilmington. Graduate from Wilmington University with a Bachelors in Liberal Stidues. Learned the core concepts of Java, Test Driven Development,
-                and was also was exposed to technologies such as Spring, and React.
+            <p> Outgoing and headstrong individual with a love for coding and problem solving. Involved in and graduated rigorous 12 week coding bootcamp at Zip Code Wilmington. Graduate from Wilmington University with a Bachelors in Liberal Studies. Learned the core concepts of Java, Test Driven Development,
+                and also was exposed to technologies such as Spring, and React.
             </p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>Clement Ojie</span><br />
-                  <span>523 Saienni Blvd<br />
-                    New Castle, DE 19720 US
-                  </span><br />
                   <span>(302)784-5442</span><br />
                   <span>cojie@gmail.com</span>
                 </p>
