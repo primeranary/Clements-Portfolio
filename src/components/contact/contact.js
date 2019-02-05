@@ -17,11 +17,8 @@ export class Contact extends Component {
         <div className="row">
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
-              <h4>Address and Phone</h4>
-              <p className="address">
-                <span>523 Saienni Blvd<br />
-                    New Castle, DE 19720 US
-                  </span><br />
+              <h4>Contact Details</h4>
+              <p className="information">
                 cojie48@gmail.com<br />
                 <span>(302) 784-5442</span>
               </p>
