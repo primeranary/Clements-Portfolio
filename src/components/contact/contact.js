@@ -19,6 +19,7 @@ export class Contact extends Component {
             <div className="widget widget_contact">
               <h4>Contact Details</h4>
               <p className="information">
+              Clement Ojie<br/>
                 cojie48@gmail.com<br />
                 <span>(302) 784-5442</span>
               </p>
