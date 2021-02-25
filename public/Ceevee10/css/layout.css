@@ -332,38 +332,43 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: java 2s ease;
 }
 .spring {
-  	width: 65%;
+  	width: 35%;
+  	-moz-animation: spring 2s ease;
+  	-webkit-animation: spring 2s ease;
+}
+.VB {
+  	width: 70%;
+  	-moz-animation: spring 2s ease;
+  	-webkit-animation: spring 2s ease;
+}
+.C# {
+  	width: 85%;
   	-moz-animation: spring 2s ease;
   	-webkit-animation: spring 2s ease;
 }
 .hibernate {
-  width: 45%;
+  width: 30%;
   -moz-animation: sql 2s ease;
   -webkit-animation: sql 2s ease;
 }
 .maven {
-  width: 45%;
+  width: 20%;
   -moz-animation: sql 2s ease;
   -webkit-animation: sql 2s ease;
 }
-.angular {
-  width: 25%;
-  -moz-animation: angular 2s ease;
-  -webkit-animation: angular 2s ease;
-}
 .junit {
-  	width: 70%;
+  	width: 40%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
 
 .sql {
-  	width: 65%;
+  	width: 75%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
 .react {
-  	width: 30%;
+  	width: 20%;
   	-moz-animation: react 2s ease;
   	-webkit-animation: react 2s ease;
 }
@@ -373,7 +378,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: git 2s ease;
 }
 .jScript {
-  width: 30%;
+  width: 45%;
   -moz-animation: jScript 2s ease;
   -webkit-animation: jScript 2s ease;
 }
