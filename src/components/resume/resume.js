@@ -18,7 +18,7 @@ export class Resume extends Component {
             <div className="row item">
               <div className="twelve columns">
               <h3>WILMINGTON UNIVERSITY</h3>
-                <p className="info">B.A in Liberal Studies<span>•</span></p>
+                <p className="info">B.A in Liberal Studies</p>
                 
               </div>
             </div> {/* item end */}
@@ -110,7 +110,7 @@ export class Resume extends Component {
               <ul className="skills">
                 <li><span className="bar-expand java" /><em>Java</em></li>
                 <li><span className="bar-expand sql" /><em>MySQL</em></li>
-                <li><span className="bar-expand Csharp" /><em>C#</em></li>
+                <li><span className="bar-expand c" /><em>C Sharp</em></li>
                 <li><span className="bar-expand html" /><em>HTML-CSHTML</em></li>
                 <li><span className="bar-expand xml" /><em>XML</em></li>
                 <li><span className="bar-expand VB" /><em>Visual Basic</em></li>
