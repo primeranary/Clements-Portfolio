@@ -18,7 +18,7 @@ export class Resume extends Component {
             <div className="row item">
               <div className="twelve columns">
               <h3>WILMINGTON UNIVERSITY</h3>
-                <p className="info">B.A in Liberal Studies<span>•</span> <em className="date">May 2018</em></p>
+                <p className="info">B.A in Liberal Studies<span>•</span></p>
                 
               </div>
             </div> {/* item end */}
@@ -33,57 +33,68 @@ export class Resume extends Component {
           <div className="nine columns main-col">
           <div className="row item">
           <div className="twelve columns">
-                <h3>ZIP CODE WILMINGTON</h3>
-                <p className="info">STUDENT SOFTWARE DEVELOPER <span>•</span> <em className="date">May 2018 - November 2018</em></p>
+                <h3>USLI</h3>
+                <p className="info">SOFTWARE DEVELOPER <span>•</span> <em className="date">September 2019 - Present</em></p>
                 <p>
-                ● Completed over 800 hours of software development projects and training over the span of 12 weeks 
+                ● Created three underwriter-facing apps for client quote assessment that have yielded over $3M in premium since inception
                 </p>
                 <p>
-                ● Selected from over 350 applicants for admission in a class of 38 students                </p>
-                <p>
-                ● Worked 80+ hours per week while gaining experience in:            
+                ● Designed and created a new submission workflow for web-based customer applications to restrict company risk based on the type quote created
                 </p>
-                        <p>* Core Java principles</p> 
-                        <p>* Object Oriented Programming</p>
-                        <p>* Pair coding</p>
-                        <p>* Agile and Scrum methodologies</p>
-                        <p>* Testing and Debugging code</p>
-                        <p>* Mentored by software developers from area companies</p>
+                <p>
+                ● Refactored existing code by implementing command, generic, and singleton design patterns to facilitate the reusability of the architectural structure of new code in future implementations
+                </p>
+                <p>
+                ● Partnered with seven product owners to better tailor business needs, while being in compliance with the systems existing architecture
+                </p>
+                <p>
+                ● Mentored three developer trainees on project management best coding practices and fundamentals per company standard
+                </p>
               </div>
               </div> {/* item end */}
 
+           <div className="row item">
+              <div className="twelve columns">
+                <h3>USLI</h3>
+                <p className="info">DEVELOPER TRAINEE <span>•</span> <em className="date">March 2019 - September 2019</em></p>
+                <p>
+                ● Apprenticed under senior developers and DBAs to learn best coding practices, as well as architectural fundamentals and database standards
+                </p>
+                <p>
+                ● Debugged XML applications on a weekly basis to facilitate customer onboarding to our quoting platformnce certification tests
+                </p>
+                <p>
+                ● Enhanced templates for our internal and web-based customer facing applications by improving the UI and UX
+                </p>
+                <p>
+                ● Improved existing backend stored procedures in various standalone applications through indexing and using CTEs to increase speed by 5-10 seconds and reduce server stress by about 250,000 reads
+                </p>
+              </div>
+            </div> {/* item end */}
+            <div className="row item">
+          </div> {/* item end */}
+
           <div className="row item">
               <div className="twelve columns">
-                <h3>BISANZ AGENCY</h3>
-                <p className="info">SALES SPECIALIST <span>•</span> <em className="date">August 2017 - November 2017</em></p>
-                <p>
-                ● Partnered with Delaware Teamsters unions to enroll members in universal life insurance coverage
-                </p>
-                <p>
-                ● Trained new specialists in methods for selling supplemental benefits and helped prepare new specialists for their insurance certification tests
-                </p>
-                <p>
-                ● Enrolled families in life insurance policies valued at $150,000+
-                </p>
+                <h3>ZIP CODE WILMINGTON</h3>
+                                <p className="info">STUDENT SOFTWARE DEVELOPER <span>•</span> <em className="date">May 2018 - August 2018</em></p>
+                                <p>
+                                ● Completed over 800 hours of software development projects and training over the span of 12 weeks
+                                </p>
+                                <p>
+                                ● Selected from over 350 applicants for admission in a class of 38 students                </p>
+                                <p>
+                                ● Worked 80+ hours per week while gaining experience in:
+                                </p>
+                                        <p>* Core Java principles</p>
+                                        <p>* Object Oriented Programming</p>
+                                        <p>* Pair coding</p>
+                                        <p>* Agile and Scrum methodologies</p>
+                                        <p>* Testing and Debugging code</p>
+                                        <p>* Mentored by software developers from area companies</p>
               </div>
-            </div> {/* item end */}
-            <div className="row item">
-            </div> {/* item end */}
-            <div className="row item">
-              <div className="twelve columns">
-                <h3>CITIBANK</h3>
-                <p className="info">DATA ENTRY AND BATCHING INTERN <span>•</span> <em className="date">March 2017 - July 2017</em></p>
-                <p>
-                ● Reviewed over 1,000 client documents weekly to ensure adherence to firm and regulatory policies and spearheaded the verification of document assessment logs before final processing
-                </p>
-                <p>  
-                ● Created, maintained, and validated database of over 2,000 classified client documents on the passport applications team
-                </p>
-                <p>  
-                ● Earned Top Performer award for surpassing metrics set forth by management
-                </p>
-              </div>
-            </div> {/* item end */}
+          </div> {/* item end */}
+
           </div> {/* main-col end */}
         </div> {/* End Work */}
         {/* Skills
@@ -98,7 +109,6 @@ export class Resume extends Component {
             <div className="bars">
               <ul className="skills">
                 <li><span className="bar-expand java" /><em>Java</em></li>
-                <li><span className="bar-expand junit" /><em>Junit</em></li>
                 <li><span className="bar-expand sql" /><em>MySQL</em></li>
                 <li><span className="bar-expand spring" /><em>Spring</em></li>               
                 <li><span className="bar-expand git" /><em>Git</em></li>
@@ -106,8 +116,7 @@ export class Resume extends Component {
                 <li><span className="bar-expand maven" /><em>Maven</em></li>
                 <li><span className="bar-expand react" /><em>React</em></li>
                 <li><span className="bar-expand jScript" /><em>Javascript</em></li>
-                <li><span className="bar-expand angular" /><em>Angular</em></li>
-
+                <li><span className="bar-expand junit" /><em>Junit</em></li>
               </ul>
             </div>{/* end skill-bars */}
           </div> {/* main-col end */}
