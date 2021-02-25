@@ -110,7 +110,7 @@ export class Resume extends Component {
               <ul className="skills">
                 <li><span className="bar-expand java" /><em>Java</em></li>
                 <li><span className="bar-expand sql" /><em>MySQL</em></li>
-                <li><span className="bar-expand cSharp" /><em>C Sharp</em></li>
+                <li><span className="bar-expand cSharp" /><em>C#</em></li>
                 <li><span className="bar-expand html" /><em>HTML-CSHTML</em></li>
                 <li><span className="bar-expand xml" /><em>XML</em></li>
                 <li><span className="bar-expand VB" /><em>Visual Basic</em></li>
